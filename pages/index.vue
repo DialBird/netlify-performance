@@ -21,7 +21,7 @@
           GitHub
         </a>
         <div class="text-center">
-          <img src="~assets/profile.jpg" alt="" width="600" />
+          <img src="~/assets/profile.jpeg" alt="" width="600" />
         </div>
       </div>
     </div>
