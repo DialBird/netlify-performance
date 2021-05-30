@@ -18,7 +18,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub
+          GitHuba
         </a>
         <div class="text-center">
           <img src="~/assets/profile.jpg" alt="" width="600" />
