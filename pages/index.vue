@@ -21,7 +21,11 @@
           GitHub
         </a>
         <div class="text-center">
-          <img src="~/assets/profile.jpeg" alt="" width="600" />
+          <img
+            src="https://res.cloudinary.com/dkaapuu7f/image/upload/v1622359273/profile_eo86nx.jpg"
+            alt=""
+            width="600"
+          />
         </div>
       </div>
     </div>
