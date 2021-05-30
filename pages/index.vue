@@ -25,6 +25,7 @@
             src="https://res.cloudinary.com/dkaapuu7f/image/upload/v1622359273/profile_eo86nx.jpg"
             alt=""
             width="600"
+            height="400"
           />
         </div>
       </div>
